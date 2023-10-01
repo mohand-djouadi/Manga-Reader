@@ -1,0 +1,19 @@
+.header{
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, .5);
+}
+.logo {
+    float: right;
+    margin-right: 32px;
+}
+.title {
+    float: left;
+    margin-left: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+.reader {
+    font-size: 25px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
