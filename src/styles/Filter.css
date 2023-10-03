@@ -1,0 +1,16 @@
+.filters {
+    display: flex; 
+    flex-direction: column;
+}
+.filters select {
+    width: 145px;
+    margin: 10px 0;
+}
+.filters label {
+    font-size: 15px;
+    margin: 10px 0;
+}
+.filters input {
+    width: 145px;
+    margin: 10px 0;
+}

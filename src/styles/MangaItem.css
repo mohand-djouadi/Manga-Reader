@@ -1,0 +1,14 @@
+.manga-img-cover {
+    width: 230px;
+    height: 300px;
+}
+.manga-title {
+    font-size: 23px;
+    margin: 5px;
+}
+.manga-auteur {
+    margin: 5px;
+}
+.manga-desc {
+    width: 175px;
+}
