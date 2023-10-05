@@ -1,13 +1,12 @@
 import Header from './Header'
-import MangaList from './MangaList'
-import Filter from './Filter'
+import Container from './Container'
+import '../styles/App.css'
 
 function App() {
   return (
     <div>
       <Header />
-      <Filter />
-      <MangaList />
+      <Container/>
     </div>
   );
 }

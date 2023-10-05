@@ -4,7 +4,7 @@ import '../styles/MangaList.css'
 
 function MangaList() {
     return (
-        <section className="manga-list">
+        <main className="manga-list">
         {Mangas.map((manga) => (
             <div key={manga.id} className="manga-item">
             <MangaItem
@@ -15,7 +15,7 @@ function MangaList() {
             /> 
             </div>
         ))}
-        </section>
+        </main>
     ) 
 }
 export default MangaList

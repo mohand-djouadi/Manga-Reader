@@ -1,6 +1,7 @@
 .header{
     overflow: hidden;
     background-color: rgba(0, 0, 0, .5);
+    border-bottom: red 2px solid;
 }
 .logo {
     float: right;
